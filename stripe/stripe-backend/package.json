@@ -1,0 +1,19 @@
+{
+  "name": "stripe-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Shashikamal R C",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "env": "0.0.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "stripe": "^8.47.0",
+    "uuid": "^7.0.3"
+  }
+}
